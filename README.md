@@ -1,12 +1,15 @@
 # relinker4geo
-geo gebra relink so i can vc friends at school
+Welcome to the Geogebra Relinker!
+[this was made after the removal of quick links from github]
 
-https://google.com
+-- here are some useful links to use --
 
-https://discord.com/app
+https://google.com <-- main relinker
 
-https://discord.com/login
+https://discord.com/app <-- discord
 
-https://passwords.google.com
+https://discord.com/login <-- discord again
+
+https://passwords.google.com <-- get discord password
 
 https://discord.gg/8HtBvxHhwH <--- Join our PC discord server [AD]
