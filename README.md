@@ -1,6 +1,6 @@
 # relinker4geo
 Welcome to the Geogebra Relinker!
-[this was made after the removal of quick links from github]
+[this is a bypass for the removal of quick links from github]
 
 -- here are some useful links to use --
 
