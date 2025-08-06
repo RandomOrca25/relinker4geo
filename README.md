@@ -2,6 +2,9 @@
 Welcome to the Geogebra Relinker!
 [this is a bypass for the removal of quick links from github]
 
+you can vist the repository website bellow or directly click the links bellow
+https://randomorca25.github.io/relinker4geo/
+
 -- here are some useful links to use --
 
 https://google.com <-- main relinker
