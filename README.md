@@ -2,7 +2,7 @@
 Welcome to the Geogebra Relinker!
 [this is a bypass for the removal of quick links from github]
 
-you can vist the repository website bellow or directly click the links bellow
+you can vist the repository website or directly click the links. | Happy bypassing!
 https://randomorca25.github.io/relinker4geo/
 
 -- here are some useful links to use --
