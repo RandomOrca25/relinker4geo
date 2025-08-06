@@ -12,4 +12,10 @@ https://discord.com/login <-- discord again
 
 https://passwords.google.com <-- get discord password
 
+https://youtube.com <-- youtube
+
+https://reddit.com <-- reddit meme
+
+https://old.reddit.com <-- old reddit
+
 https://discord.gg/8HtBvxHhwH <--- Join our PC discord server [AD]
