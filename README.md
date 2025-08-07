@@ -1,5 +1,5 @@
 # relinker4geo
-Welcome to the Geogebra Relinker!
+Welcome to the Geogebra Relinker! | This took me 5 minutes to make
 [this is a bypass for the removal of quick links from github]
 
 you can vist the repository website or directly click the links. | Happy bypassing!
