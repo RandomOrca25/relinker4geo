@@ -13,6 +13,8 @@ https://discord.com/app <-- discord
 
 https://discord.com/login <-- discord again
 
+https://instagram.com <-- idk how but yall fr got our ip banned from signing into IG
+
 https://passwords.google.com <-- get discord password
 
 https://youtube.com <-- youtube
