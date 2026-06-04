@@ -1,5 +1,5 @@
 # relinker4geo
-Welcome to the Geogebra Relinker! | THIS REPOSITORY WILL BE TAKEN DOWN SOON
+Welcome to the Geogebra Relinker! | FYI, leaking d11 to your friends will eventually lead to it being patched!
 [this is a bypass for the removal of quick links from github]
 
 you can vist the repository website or directly click the links. | Happy bypassing!
@@ -21,4 +21,4 @@ https://reddit.com <-- reddit meme
 
 https://old.reddit.com <-- old reddit
 
-https://discord.gg/8HtBvxHhwH <--- Join our PC discord server [AD]
+https://discord.gg/cvD7yvpYKb <--- Join our discord server for more exploits! [AD]
