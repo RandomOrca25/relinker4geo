@@ -1,6 +1,6 @@
 # relinker4geo
-Welcome to the Geogebra Relinker! | FYI, leaking d11 to your friends will eventually lead to it being patched!
-[this is a bypass for the removal of quick links from github]
+Welcome to the Geogebra Relinker! | FYI, leaking d11 to your friends will eventually lead to it being patched! | PS: If you are a district IT member, the only thing I would like to say is, I have more bypasses than you think ;)
+[this is a bypass for the removal of quick links from github] 
 
 you can vist the repository website or directly click the links. | Happy bypassing!
 https://randomorca25.github.io/relinker4geo/
